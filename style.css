@@ -1,0 +1,25 @@
+body,
+html{
+    width: 100%;
+    height: 100%;
+    font-family: 'Anton', sans-serif; 
+    background: url(https://www.impressiveinteriordesign.com/wp-content/uploads/2019/01/image015.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+hr{
+    
+    color: rgb(221, 1, 1);
+    max-width: 200px;
+}
+
+
+/* .btn-buynow{
+    padding: 1rem 2rem;
+} */
